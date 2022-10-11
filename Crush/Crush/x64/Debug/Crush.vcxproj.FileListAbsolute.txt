@@ -1,0 +1,5 @@
+C:\Users\User\OneDrive\Desktop\C++-Projects\Crush\Crush\x64\Debug\Crush.vcxproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C++-Projects\Crush\Crush\x64\Debug\Crush.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\User\OneDrive\Desktop\C++-Projects\Crush\Crush\x64\Debug\Crush.CrushForm.resources
+C:\Users\User\OneDrive\Desktop\C++-Projects\Crush\Crush\x64\Debug\Crush.vcxproj.GenerateResource.cache
+C:\Users\User\OneDrive\Desktop\C++-Projects\Crush\Crush\x64\Debug\Crush.StudentInformationForm.resources
